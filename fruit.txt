@@ -3,3 +3,5 @@ apple
 pear
 house
 power
+okkk
+no feature1

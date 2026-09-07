@@ -1,3 +1,5 @@
 banana
 apple
 pear
+house
+power
